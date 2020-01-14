@@ -1,0 +1,38 @@
+//
+//  SceneDelegate.swift
+//  Graphic
+//
+//  Created by Екатерина Протасова on 25.12.2019.
+//  Copyright © 2019 Екатерина Протасова. All rights reserved.
+//
+
+import UIKit
+
+class SceneDelegate: UIResponder, UIWindowSceneDelegate {
+
+    var window: UIWindow?
+
+    func scene(_ scene: UIScene, willConnectTo session: UISceneSession, options connectionOptions: UIScene.ConnectionOptions) {
+
+    }
+
+    func sceneDidDisconnect(_ scene: UIScene) {
+
+    }
+
+    func sceneDidBecomeActive(_ scene: UIScene) {
+
+    }
+
+    func sceneWillResignActive(_ scene: UIScene) {
+
+    }
+
+    func sceneWillEnterForeground(_ scene: UIScene) {
+
+    }
+
+    func sceneDidEnterBackground(_ scene: UIScene) {
+
+    }
+}
